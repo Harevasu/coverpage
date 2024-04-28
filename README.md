@@ -74,8 +74,6 @@ Publish the website in the LocalHost.
             top: 8%;
             right: 10%;}
     </style>
-```
-```
 </head>
 <body>
     <main>
