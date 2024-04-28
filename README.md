@@ -44,45 +44,38 @@ Publish the website in the LocalHost.
             width: 35%;
             margin: auto;
             background-color: #eb53b3;
-            position: relative;
-            
-            
-        }
+            position: relative;}
         section{
             color: #ffffff;
             position: absolute;
             bottom: 10%;
-            right: 5%;
-        }
+            right: 5%;}
         section h1{
             font-family: 'Copperplate Gothic Light';
             font-size: 4rem;
             margin: 12px;
             margin-left: 0%;
-            font-weight:lighter;
-        }
+            font-weight:lighter; }
         section p{
             font-family: sans-serif;
             font-size: 1.25rem;
             margin: 2px;
-            margin-left: 0%;
-        }
+            margin-left: 0%;  }
         #auth{
-            font-style: italic;
-        }
+            font-style: italic;   }
         .rect{
             background-color: #45d3da;
             height: 30px;
             margin-top: 20px;
-            width: 100%;
-        }
+            width: 100%; }
         img{
             height: 200px;
             position: absolute;
             top: 8%;
-            right: 10%;
-        }
+            right: 10%;}
     </style>
+```
+```
 </head>
 <body>
     <main>
